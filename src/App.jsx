@@ -12,7 +12,8 @@ import TermsOfService from './pages/TermsOfService';
 export default function App() {
   return (
     // The basename parameter handles the subfolder path cleanly on GitHub Pages
-    <Router basename="/TechCraft">
+    // <Router basename="/TechCraft">
+    <Router basename="/Lakshmi-IT-Solutions">
       <div className="flex flex-col min-h-screen bg-slate-50 font-sans overflow-x-hidden">
         <Navbar />
         
